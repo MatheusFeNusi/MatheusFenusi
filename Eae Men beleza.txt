@@ -1,0 +1,22 @@
+Passo a Passo para clonar um arquivo do git hub na area de trabalho
+
+
+emtra no git bash here 
+
+git clone + endereço  ( shift + insert )
+
+cd + endereço id
+
+criar um texto na pasta que irá criar na area de trabalho 
+
+git status Para conferir 
+
+
+
+
+git add . Para permitir alteração no arquivo
+
+
+git commit -m "Explica porque o arquivo foi criado e aparece como texto no git Hub"
+
+git push 
