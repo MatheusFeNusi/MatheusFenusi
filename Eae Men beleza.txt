@@ -17,6 +17,6 @@ git status Para conferir
 git add . Para permitir alteração no arquivo
 
 
-git commit -m "Explica porque o arquivo foi criado e aparece como texto no git Hub"
+git commit -m "Explica porque o arquivo foi criado ou modificado e aparece como texto no git Hub"
 
 git push 
